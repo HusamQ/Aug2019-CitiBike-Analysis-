@@ -9,6 +9,8 @@ Using Tabluea and Pandas, this analysis to support the business proposal given t
 I used the Citibike s3 bucket tripdata for New York City for August 2019. The CSV file has more than 2 milion trip records. 
 There are two different type of  users: Subscribers and Customers, Male and Female. 
 
+![Customer Type](https://github.com/HusamQ/Aug2019-CitiBike-Analysis-/blob/eacb7a64a702119fc51e987c8e150cc5127c4a69/Images/usertype.PNG)
+
 ![By Gender](https://github.com/HusamQ/Aug2019-CitiBike-Analysis-/blob/2747fe90126d1ad5650bf53d90b2f7644689d64a/Images/Riders-ByGender.PNG)
  
 #  Checkout Times for Users:
