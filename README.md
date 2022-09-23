@@ -1,13 +1,13 @@
-# August 2019 CitiBike Analysis with Tabluea
+# August 2019 CitiBike Analysis with Tableau
 Module 14 Challenge. 
 
 # Overview of the project:
-Using Tabluea and Pandas, this analysis to support the business proposal given the stakeholders to invest in a Bikesharing service in Des Moines, Iowa. 
-[Here is the Tabluea dashboard](https://public.tableau.com/app/profile/qarawih/viz/Aug2019CitiBikeAnalysis/Checkouttimeforusers?publish=yes)
+Using Tableau and Pandas, this analysis to support the business proposal given the stakeholders to invest in a Bikesharing service in Des Moines, Iowa. 
+[Here is the Tableau dashboard](https://public.tableau.com/app/profile/qarawih/viz/Aug2019CitiBikeAnalysis/Checkouttimeforusers?publish=yes)
 
 # Data source:
-I used the Citibike s3 bucket tripdata for New York City for August 2019. The CSV file has more than 2 milion trip records. 
-There are two different type of  users: Subscribers and Customers, Male and Female. 
+I used the Citibike s3 bucket tripdata for New York City for August 2019. The CSV file has more than 2 million trip records. 
+There are two different type of users: Subscribers and Customers, Male and Female. 
 
 ![Customer Type](https://github.com/HusamQ/Aug2019-CitiBike-Analysis-/blob/eacb7a64a702119fc51e987c8e150cc5127c4a69/Images/usertype.PNG)
 
@@ -36,12 +36,13 @@ This graph shows the length of time that bikes are checked out for each gender. 
   
 # Summary of Analysis:
 
-Based on the data that we analyze for August 2019, by looking at everyday's trip data the majority of citibike riders are male comparing to all the time from morning to throught the week. Althought, there's an increase of female bike riders starting to increase in the evening and especially on the weekend, men customers and subcribers are still dominent.
+Based on the data that we analyze for August 2019, by looking at everyday trip data the majority of citibike riders are male comparing to all the time from morning to through the week. Although, there's an increase of female bike riders starting to increase in the evening and especially on the weekend, men customers and subscribers are still dominant.
 
-# Suggested aditional visualization: 
-- I would suggest to visulaize the bike rider data based on the Geo location where the trip starts and where it ends. Doing so will allow us to have further insights about locations and the number of bikes were available in that area. 
+# Suggested additional visualization: 
 
-- Another suggestion would be visualizing trip data by focusing on the age of the riders. To let us know the demographic of the customers. This provide more info for other services that might be introduced now or in the future, or market  for the least age riders to convince them to use the service.
+- I would suggest to visulize the bike rider data based on the Geo location where the trip starts and where it ends. Doing so will allow us to have further insights about locations and the number of bikes were available in that area. 
+
+- Another suggestion would be visualizing trip data by focusing on the age of the riders. To let us know the demographic of the customers. This provide more info for other services that might be introduced now or in the future, or market for the least age riders to convince them to use the service.
   
 
 
