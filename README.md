@@ -1,5 +1,4 @@
 # August 2019 CitiBike Analysis with Tableau
-Module 14 Challenge. 
 
 # Overview of the project:
 Using Tableau and Pandas, this analysis to support the business proposal given the stakeholders to invest in a Bikesharing service in Des Moines, Iowa. 
